@@ -1,0 +1,24 @@
+body
+{
+color: turquoise; background-color: rgb(139, 0, 88);
+}
+
+.heading
+{
+    width: 75%;
+    font-size:30px ;
+    background-color: purple;
+    color: beige;
+}
+
+.items
+{
+    font-size: 17px;
+    color: pink;
+}
+#webcam
+{
+    border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
